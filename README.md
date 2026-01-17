@@ -19,7 +19,7 @@ Inferno Across America is a visual chronicle of wildfire impact across the Unite
 
 ## Screenshots
 
-![Hero view – map and charts](documentation/image.png)
+![Hero view – map and charts](docs/image.png)
 
 ## Data sources
 
